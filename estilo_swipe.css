@@ -155,6 +155,9 @@ h1{
 .icone-size25{
     max-width: 25px;
 }
+.icone-size15{
+    max-width: 15px;
+}
 /* fig-2. Setando características de texto */
 .divcriativo{
     line-height: 1.5;
